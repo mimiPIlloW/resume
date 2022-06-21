@@ -2,6 +2,10 @@
 	text-align: center;
 }
 
+input[name=message] {
+    width: 80%;
+}
+
 #profile-pic{
 	width:150px;
 	height: 150px;
